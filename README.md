@@ -17,6 +17,7 @@ Running the project:
       - Click the object to measure (for this project, it is the Iron Man figure) on the disparity map shown on cv2 window
       - Press q to continue to the area selection window
       - Draw a rectangle around the object to measure. Be as precise as possible to get a more "accurate" measurement.
+      - Press q to end the program
 
 
 Demo Video:
