@@ -1,7 +1,7 @@
 # computer-vision
 This project was created for Computer Vision CSCI 4220U Final Project.
 
-Peer programming was done for this project completion. 
+Peer programming was done for this project completion.  
 Authors:
   - Clyve Widjaya
   - Justin Duong
